@@ -1,0 +1,33 @@
+1
+ ESATAN-TMS  2024                                                      Page     1
+ 23 September 2025  09:10:40                               BARRA_DISSIPATION_CASE
+
+
+
+
+
+  TIMEN =      0.00      MODULE SOLVFM      LOOPCT =     4
+ ENBALA = 2.274E-13      ENBALR = 2.E-16
+
+
+ TABLE OUTPUT WITH ZENTS = 'FX,T,QI'
+ FOR NODES OF ZLABEL = ' '
+
+ ================================================================================
+
+
++BARRA_DISSIPATION_CASE                                                          
+
+
+          NODE          FX            T             QI                          
+
+            1          0.10         37.78        200.00
+            2          0.30         91.11        200.00
+            3          0.50        122.22        200.00
+            4          0.70        131.11        200.00
+            5          0.90        117.78        200.00
+          100          0.00          0.00          0.00
+          200          1.00        100.00          0.00
+ X      99998          0.00          0.00          0.00
+        99999          0.00       -270.00          0.00
+
